@@ -51,6 +51,7 @@ The project uses:
 
 - `TrainDataSignale.zip`
 - `XTestSignale.zip`
+  which are downloaded from  https://hs-bochum.sciebo.de/s/9H40wazFuZ7WEv7?dir=/data
 
 The datasets contain:
 
